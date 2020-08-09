@@ -1,4 +1,4 @@
 # best-repo-ever
 Test
-Testing merge conflicts 2
-new branch-2
+Testing merge conflicts
+new branch-1
